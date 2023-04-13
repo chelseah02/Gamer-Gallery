@@ -47,7 +47,12 @@ GIF created with GIPHY
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+All required features are met. 
+
+1. I provide a text input and buttons as two different ways for users to create new gamers.
+2. Users can update gamers, which will be reflected in the updated summary page.
+3. Due to ambiguous requirements list, my interpretation of Details Page is implemented in combination with the Edit Gamer feature. Each gamer has a uniquely linked direct page that provides details about its attributes before giving an option for users to edit the attributes or return to the summary.
+4. Users can delete gamers, which will be reflected in the updated summary page.
 
 ## License
 
