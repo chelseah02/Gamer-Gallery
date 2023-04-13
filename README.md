@@ -30,7 +30,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories: (Create, Update, Details with Unique Link per Crewmate, Delete with Summary showed throughout GIFs)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVjMDFmMjExOWI3MmU5MjdmNmU0ZjY1MDJlYzQzMTg2NzgyMDljYyZjdD1n/hvouwUe3M7L4Pn9Jd7/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM0N2QwMmQ0OWJjOGViNTExZTU4MzgzNzM3YjNjNmE3YmM0Zjg4YyZjdD1n/1mE8lyTImhIbAVDg9a/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with GIPHY  
